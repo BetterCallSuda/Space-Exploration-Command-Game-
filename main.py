@@ -77,4 +77,3 @@ def create_planets():
         session.add_all(planets)
         session.commit()
 
-
